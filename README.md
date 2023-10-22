@@ -1,0 +1,2 @@
+# BiliFolderDownloader
+下载bili账号默认收藏夹里的所有视频的音频
